@@ -1,0 +1,6 @@
+#My first Project
+## **course**: Geogrpahy 13
+## **Name**: Chiloe
+## **Year**: Senior
+## **Major**: Geography 
+## **OS**: MacOS Big Sur
